@@ -1,6 +1,6 @@
 # Văn bản
 ### Phương châm
-- 
+- Hợp tác và phát triển
 ### lịch trình sự kiện
 1. Tán phét
 2. Tuần làm việc vừa qua
